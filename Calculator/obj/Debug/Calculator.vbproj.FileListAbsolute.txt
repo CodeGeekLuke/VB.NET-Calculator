@@ -1,0 +1,22 @@
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\bin\Debug\Calculator.exe.config
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\bin\Debug\Calculator.exe
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\bin\Debug\Calculator.pdb
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\bin\Debug\Calculator.xml
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.Resources.resources
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.exe
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.xml
+C:\CALC\visual-basic-calculator-master\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.pdb
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\bin\Debug\Calculator.exe.config
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.exe
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.xml
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.pdb
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\bin\Debug\Calculator.exe
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\bin\Debug\Calculator.pdb
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\bin\Debug\Calculator.xml
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Dave\Programming\Primary Apps Toolbox Calculator\visual-basic-calculator-master\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
